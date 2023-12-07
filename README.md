@@ -21,4 +21,4 @@ Password - 12345678
 type
 php artisan serve
 
-![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![GitHub Octocat]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png)https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png)
