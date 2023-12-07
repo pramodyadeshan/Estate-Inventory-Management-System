@@ -21,4 +21,4 @@ Password - 12345678
 type
 php artisan serve
 
-https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png)https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png
+[https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png)https://github.com/pramodyadeshan/Estate-Inventory-Management-System/blob/main/public/uploads/product-images/1701108595.png]
