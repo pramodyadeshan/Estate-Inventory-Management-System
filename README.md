@@ -20,3 +20,5 @@ Password - 12345678
 ## To Run the project
 type
 php artisan serve
+
+![GitHub Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
