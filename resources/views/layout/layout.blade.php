@@ -25,15 +25,7 @@
       </div>
       <div class="pull-right clearfix">
         <ul class="info-menu list-inline list-unstyled">
-            @if($Allconferences->unread == 1)
             <li class="profile">
-                <a href="/list-conference" data-title="Conference Link" class="toggle top-user-message" aria-expanded="false">
-                    <i class="glyphicon glyphicon-link"></i> <span class="">{{ $Allconferences->unread == 1 ? '1' : '' }}</span>
-                </a>
-            </li>
-            @endif
-            <li class="profile">
-
                 <a href="#" data-toggle="dropdown" class="toggle top-user-message" aria-expanded="false">
                     <i class="glyphicon glyphicon-envelope"></i> <span class="">{{ Auth::user()->unread_message == 1 ? '1' : '' }}</span>
                 </a>

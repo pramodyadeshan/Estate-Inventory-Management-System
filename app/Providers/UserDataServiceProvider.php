@@ -17,11 +17,6 @@ class UserDataServiceProvider extends ServiceProvider
             $users = User::all();
             $view->with('allUsers', $users);
         });
-
-        View::composer('*', function ($view) {
-            $conferences = Conference::orderBy('created_at', 'DESC')->first();
-            $view->with('Allconferences', $conferences);
-        });
     }
 
     /**
